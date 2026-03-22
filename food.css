@@ -106,7 +106,7 @@ html::-webkit-scrollbar-thumb {
     font-size: 32px;
 }
 .slide-img1 {
-    background-image: url('../food/img/home-slide-1.jpg');
+    background-image: url('../img/home-slide-1.jpg');
     width: 100%;
     height: 100vh;
     background-position: center;
@@ -118,7 +118,7 @@ html::-webkit-scrollbar-thumb {
     left: 0;
 }
 .slide-img2 {
-    background-image: url('../food/img/home-slide-2.jpg');
+    background-image: url('../img/home-slide-2.jpg');
     width: 100%;
     height: 100vh;
     background-position: center;
@@ -220,7 +220,7 @@ html::-webkit-scrollbar-thumb {
 
 .btn-next::after {
     content: '';
-    background-image: url("../food/img/icons8-шеврон-вправо-48.png");
+    background-image: url("../img/icons8-шеврон-вправо-48.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -385,7 +385,7 @@ html::-webkit-scrollbar-thumb {
     background-color: rgba(0,0,0,.7);
     min-width: 100%;
     min-height: 100%;
-    background-image: url('../food/img/icons8-плюс-100.png');
+    background-image: url('../img/icons8-плюс-100.png');
     background-position: center;
     background-repeat: no-repeat;
     z-index: 25;
