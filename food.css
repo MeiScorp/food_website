@@ -234,7 +234,7 @@ html::-webkit-scrollbar-thumb {
 
 .btn-prev::after {
     content: '';
-    background-image: url("../food/img/icons8-шеврон-вправо-48.png");
+    background-image: url("img/icons8-шеврон-вправо-48.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
