@@ -106,7 +106,7 @@ html::-webkit-scrollbar-thumb {
     font-size: 32px;
 }
 .slide-img1 {
-    background-image: url('../img/home-slide-1.jpg');
+    background-image: url('img/home-slide-1.jpg');
     width: 100%;
     height: 100vh;
     background-position: center;
