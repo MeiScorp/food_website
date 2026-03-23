@@ -1,7 +1,7 @@
 
-# Responsive Portfolio Website 🌐
+# Responsive food Website 🌐
 
-A simple, responsive portfolio website built with pure HTML and CSS.  
+A simple, responsive food website built with pure HTML and CSS.  
 The site includes a hero section, about section, projects showcase, and contact area.  
 Designed to be clean, minimal, and easy to customize for personal branding.
 
@@ -11,10 +11,6 @@ Designed to be clean, minimal, and easy to customize for personal branding.
 - Clean and modern design using only HTML and CSS
 - Navigation bar with smooth scrolling between sections
 - Hero section with main headline and call-to-action
-- About section for personal or project description
-- Projects/Work section to showcase your work or case studies
-- Contact section with links or a simple contact form layout
-- Easy to extend with more sections or pages
 
 ## 🚀 Live Demo
 
